@@ -5,7 +5,7 @@ const Cards = ({ data }) => {
     <div className="mt-4">
       <div className="row">
         {data.map((row, index) => (
-          <div className="col-md-4 mb-4" key={index}>
+          <div className="col-md-4 col-12 mb-4" key={index}>
             <div className="card">
               <div className="card-body">
                 <h5 className="card-title">Rank: {row.Rank}</h5>
