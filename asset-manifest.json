@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/LeaderBoard/static/js/main.dcea1747.js",
+    "main.js": "/LeaderBoard/static/js/main.389668c1.js",
     "index.html": "/LeaderBoard/index.html",
-    "main.dcea1747.js.map": "/LeaderBoard/static/js/main.dcea1747.js.map"
+    "main.389668c1.js.map": "/LeaderBoard/static/js/main.389668c1.js.map"
   },
   "entrypoints": [
-    "static/js/main.dcea1747.js"
+    "static/js/main.389668c1.js"
   ]
 }
